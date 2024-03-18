@@ -4,8 +4,8 @@ import { createClient } from '@supabase/supabase-js';
 
 import React, { useEffect, useState } from 'react'
 
+const supabase = createClient('https://fwlzeppvsmeiiusapnkp.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ3bHplcHB2c21laWl1c2FwbmtwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MTAyMjUzNDIsImV4cCI6MjAyNTgwMTM0Mn0.5nAajCdyhd-P1WsBDwIPLir48huFuydsmQOUW3tnSRA');
 
-const supabase = createClient('https://nhgwlsmmqjlszkjncurg.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5oZ3dsc21tcWpsc3pram5jdXJnIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDk2NzAyNzcsImV4cCI6MjAyNTI0NjI3N30.d_XWelkD4W4eo4R5eJybKzXfuG02WIemtAQwSU-oW1g');
 
 
 
